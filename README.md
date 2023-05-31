@@ -13,7 +13,8 @@ I'm a music composer.<br>I am interested in algorithmic composition of acoustic 
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/francesco-vitucci/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/francesco-vitucci/)
+[![Instagram](https://img.shields.io/badge/Instagram-violet?style=flat&logo=instagram&link=https://www.instagram.com/fr.vitucci/?hl=it)](https://www.instagram.com/fr.vitucci/?hl=it)
 
 ---
 
