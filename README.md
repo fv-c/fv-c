@@ -16,6 +16,14 @@ Ordinary member of S.I.M.C. (Italian Society of Contemporary Music), his works a
 
 ---
 
+# 🎼 Scores:
+
+[![Da Vinci Publishing](https://img.shields.io/badge/Da%20Vinci%20Publishing-Buy-Green?labelColor=beige&style=flat&link=https://davinci-edition.com/composer/francesco-vitucci/)](https://davinci-edition.com/composer/francesco-vitucci/)
+[![Taukay](https://img.shields.io/badge/Taukay-Buy(0%E2%82%AC)-black?labelColor=white&style=flat&link=https://www.taukay.it/data1/index.php?option=com_content&view=article&id=988:francesco-vitucci-it&catid=86&lang=it&Itemid=278)](https://www.taukay.it/data1/index.php?option=com_content&view=article&id=988:francesco-vitucci-it&catid=86&lang=it&Itemid=278)
+[![Stradivarius](https://img.shields.io/badge/Stradivarius-Buy-white?labelColor=orange&style=flat&link=https://label.stradivarius.it/wp/compositori/vitucci-francesco/)](https://label.stradivarius.it/wp/compositori/vitucci-francesco/)
+
+---
+
 # 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/francesco-vitucci/)
