@@ -11,7 +11,7 @@ Ordinary member of S.I.M.C. (Italian Society of Contemporary Music), his works a
 
 # 🎶 Music:
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/c/FrancescoVitucciComposer)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/c/FrancescoVitucciComposer){:target="_blank"}
 [![SoundCloud](https://img.shields.io/badge/-SoundCloud-orange?logo=SoundCloud&logoColor=white)](https://soundcloud.com/francesco_vitucci)
 
 ---
