@@ -1,6 +1,6 @@
 # About Me:
 
-I'm a music composer.<br>I am interested in algorithmic composition of acoustic and electro-acoustic music.<br>I am also a teacher, or at least I try to.
+I'm a music composer.<br>I am interested in algorithmic composition of acoustic and electroacoustic music.<br>I am also a teacher, or at least I try to.
 
 ## Resumé
 
