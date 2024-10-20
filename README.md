@@ -9,7 +9,7 @@ He graduated in Composition, Technological Musical Disciplines and Electronic Mu
 
 Ordinary member of S.I.M.C. (Italian Society of Contemporary Music), his works are performed in concerts and contemporary music festivals, in Italy and abroad, and have been positively evaluated in various national and international composition competitions: _First Prize_ in the International Composition Competition “2 Agosto” – XXVII edition (2021); _Best piece of the trilogy_ award and the _Best piece among the youngest composers_ award, within the 1st Composition Competition “Lirica da camera su testi di poeti e scrittori delle Case Museo di Romagna” (2021); _Jurypreis_ and _Publikumpreis_, at the “Junges Lied-Wettbewerbes” Competition in Zurich (2022); _Grand Prix_ in the 4th International Composer Competition “New Music Generation 2022”, organized by the Kazakh National University of Arts (2022); finalist in the “Luciano Berio” International Composition Competition (2023).
 
-Currently, at the “N. Piccinni” Conservatory of Bari, he is a PhD student in “Computational electroacoustic musical composition, generative algorithmic models and computational complexity”.
+Currently, at the “N. Piccinni” Conservatory of Bari, he is a PhD student in “Computational electroacoustic music composition, generative algorithmic models and computational complexity”.
 
 ---
 
