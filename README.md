@@ -1,6 +1,6 @@
 # About Me:
 
-Composer, electroacoustic interpreter, teacher.\
+Composer, electroacoustic performer, teacher.\
 I am interested in algorithmic composition of acoustic and electroacoustic music.
 
 ## Resumé
