@@ -1,3 +1,5 @@
+[![francescovitucci.com](https://img.shields.io/badge/francescovitucci.com-black?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0wIDB2MTguMjU2aDMuNzk1di03LjY2NWg3LjU4Mmw1LjEwMyAxNS4xMDVoMy42MDlMMjYuMzI4IDcuNDE2SDIyLjM2bC00LjAwNiAxMy44NzhMMTQuMzg1IDcuNDE2IDMuNzk1IDcuNDE3VjMuMjEyaDkuMTY1VjBIMFoiLz48L3N2Zz4=&logoColor=white)](https://www.francescovitucci.com/)
+
 # About Me:
 
 Composer, electroacoustic performer, teacher.\
@@ -21,23 +23,24 @@ Currently, at the “N. Piccinni” Conservatory of Bari, he is a PhD student in
 
 # 🎶 Music:
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/c/FrancescoVitucciComposer)
-[![SoundCloud](https://img.shields.io/badge/-SoundCloud-orange?logo=SoundCloud&logoColor=white)](https://soundcloud.com/francesco_vitucci)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/FrancescoVitucciComposer)
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-orange?style=for-the-badge&logo=SoundCloud&logoColor=white)](https://soundcloud.com/francesco_vitucci)
 
 ---
 
 # 🎼 Scores:
 
-[![Da Vinci Publishing](https://img.shields.io/badge/Da%20Vinci%20Publishing-Buy-Green?labelColor=beige&style=flat&link=https://davinci-edition.com/composer/francesco-vitucci/)](https://davinci-edition.com/composer/francesco-vitucci/)
-[![Taukay](https://img.shields.io/badge/Taukay-Buy(0%E2%82%AC)-black?labelColor=white&style=flat&link=https://www.taukay.it/data1/index.php?option=com_content&view=article&id=988:francesco-vitucci-it&catid=86&lang=it&Itemid=278)](https://www.taukay.it/data1/index.php?option=com_content&view=article&id=988:francesco-vitucci-it&catid=86&lang=it&Itemid=278)
-[![Stradivarius](https://img.shields.io/badge/Stradivarius-Buy-white?labelColor=orange&style=flat&link=https://label.stradivarius.it/wp/compositori/vitucci-francesco/)](https://label.stradivarius.it/wp/compositori/vitucci-francesco/)
+[![SZ Sugar - Buy](https://img.shields.io/badge/SZ%20Sugar-Buy-ff69b4?style=for-the-badge)](https://szsugar.it/autore/vitucci-francesco/)
+[![Da Vinci Publishing](https://img.shields.io/badge/Da%20Vinci%20Publishing-Buy-green?labelColor=beige&style=for-the-badge)](https://davinci-edition.com/composer/francesco-vitucci/)
+[![Taukay](https://img.shields.io/badge/Taukay-Buy(0%E2%82%AC)-black?labelColor=white&style=for-the-badge)](https://www.taukay.it/data1/index.php?option=com_content&view=article&id=988:francesco-vitucci-it&catid=86&lang=it&Itemid=278)
+[![Stradivarius](https://img.shields.io/badge/Stradivarius-Buy-white?labelColor=orange&style=for-the-badge)](https://label.stradivarius.it/wp/compositori/vitucci-francesco/)
 
 ---
 
 # 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/francesco-vitucci/)
-[![Instagram](https://img.shields.io/badge/Instagram-violet?style=flat&logo=instagram&link=https://www.instagram.com/fr.vitucci/?hl=it)](https://www.instagram.com/fr.vitucci/?hl=it)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francesco-vitucci/)
+[![Instagram](https://img.shields.io/badge/Instagram-violet?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fr.vitucci/?hl=it)
 
 ---
 
