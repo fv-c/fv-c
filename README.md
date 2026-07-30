@@ -25,6 +25,7 @@ Currently, at the “N. Piccinni” Conservatory of Bari, he is a PhD student in
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/FrancescoVitucciComposer)
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-orange?style=for-the-badge&logo=SoundCloud&logoColor=white)](https://soundcloud.com/francesco_vitucci)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/intl-it/artist/3Tq9L2BKq1kn7t1rah2QrJ?si=cAF0KSXvR76m6J6mBu0hWw)
 
 ---
 
